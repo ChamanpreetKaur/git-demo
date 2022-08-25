@@ -6,3 +6,5 @@ def sub(x,y)
 
 def mul(p,q)
     return p*q
+a=2
+b=3
